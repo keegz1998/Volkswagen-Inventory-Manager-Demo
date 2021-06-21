@@ -1,15 +1,4 @@
-
-
-
-
-
- 
-
   <h3 align="center">Volkswagen Inventory Manager in Laravel</h3>
-
-
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -47,6 +36,8 @@ view all models,features and specific makes of cars available in inventory, whil
 * HTML
 * CSS
 * Javascript
+
+<a href='https://youtu.be/A4wHUbDeG4s'>Demonstration video of web application</a>
 
 ## Prequisites
 * Laravel 8
