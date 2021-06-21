@@ -2,8 +2,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
 
  
 
@@ -18,9 +16,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      About The Project
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>Built With</li>
+      </ul>
+     <li>Prequisites</li>
+      </ul>
+ <li>Set Up</li>
       </ul>
     </li>
     
@@ -46,6 +48,13 @@ view all models,features and specific makes of cars available in inventory, whil
 * CSS
 * Javascript
 
+## Prequisites
+* Laravel 8
+* PHP 5 +
+* Vistual Studio Code
+## Set Up
+To set up the project, you will need to extract the laravel project and navigate to the directory of the folder using the command prompt to run the following command: php artisan serve.
+You can then navigate to the localhost port and the web application will be running.
 <!-- SCREENSHOTS -->
 ## Screenshots
 ![Home Page](https://github.com/keegz1998/Volkswagen-Inventory-Manager-Demo/blob/main/Screenshots/Home%20Page.PNG)
