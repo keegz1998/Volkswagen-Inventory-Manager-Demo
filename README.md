@@ -55,6 +55,7 @@ view all models,features and specific makes of cars available in inventory, whil
 ![Model Info Page](https://github.com/keegz1998/Volkswagen-Inventory-Manager-Demo/blob/main/Screenshots/Model%20Info.PNG)
 ![Models Display Page](https://github.com/keegz1998/Volkswagen-Inventory-Manager-Demo/blob/main/Screenshots/Models.PNG)
 ![Edit Model Page](https://github.com/keegz1998/Volkswagen-Inventory-Manager-Demo/blob/main/Screenshots/Edit%20Model.PNG)
+![ERD Design](https://github.com/keegz1998/Volkswagen-Inventory-Manager-Demo/blob/main/Screenshots/ERD.PNG)
 
 
 
